@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kuni-G/Leetcode-solutions/tree/master/0136-single-number) |
+| [0766-toeplitz-matrix](https://github.com/Kuni-G/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Kuni-G/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/Kuni-G/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
